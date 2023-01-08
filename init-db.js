@@ -30,21 +30,21 @@ async function main() {
         venta: true,
         precio: 300,
         foto: "/images/iphone12.jpeg",
-        tags: ["Teléfono"],
+        tags: ["mobile"],
       },
       {
         nombre: "bicicleta",
         venta: false,
         precio: 50,
         foto: "/images/bicicleta.jpeg",
-        tags: ["Deporte"],
+        tags: ["lifestyle"],
       },
       {
         nombre: "iphone 13 pro",
         venta: true,
         precio: 500,
         foto: "/images/iphone13pro.jpeg",
-        tags: ["Teléfono"],
+        tags: ["mobile"],
       },
     ]);
     console.log("Data inserted");
